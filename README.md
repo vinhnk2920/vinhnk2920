@@ -27,7 +27,7 @@
 
 ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinhnk2920&layout=compact&title_color=24292F&text_color=24292F)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinhnk2920&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
@@ -35,6 +35,6 @@
 
 ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
 
-![Khanh Vinh's github stats](https://github-readme-stats.vercel.app/api/?username=vinhnk2920&show_icons=true&title_color=F3EB3B&icon_color=F3EB3B&text_color=24292F&bg_color=ffffff) 
+![Khanh Vinh's github stats](https://github-readme-stats.vercel.app/api/?username=vinhnk2920&show_icons=true&theme=radical) 
 </div>
 
