@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> Hi guy~ <img src="https://pic.chinesefontdesign.com/uploads/2017/11/chinesefontdesign.com-2017-11-16_10-37-52_166289.gif" width="75px"></h1>
+  <h1 style="color:#F3EB3B;"> Hi guy~ <img src="https://pic.chinesefontdesign.com/uploads/2017/11/chinesefontdesign.com-2017-11-16_10-37-52_166289.gif" width="75px"></h1>
 </div>
  
 <p align='center'> 
@@ -10,3 +10,31 @@
 <div align="center">
 <h3> :hatching_chick: Khanh Vinh Nguyen    |     💻 Software Engineer    |    🌏 Hanoi, Vietnam </h3> 
 </div>
+
+### About me 
+
+- 🎖 Completed software internships at [Giaohangtietkiem](https://giaohangtietkiem.vn/)
+- :mortar_board: Information technology @ National Economics University Vietnam
+- 🌱 Learning `Fullstack Web Development`. 
+- :computer: Working as `Software Engineer`
+- 🤔 Need some help with `technical interview and algorithm`.
+- ⚡ Fun fact: I'm a `dancer and content creator`.
+- 💭 Let's get to know each other 
+
+### Checkout my Tiktok channel in [Tiktok](https://www.tiktok.com/@vinhnk9)
+
+<div align="center">
+
+✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinhnk2920&layout=compact&title_color=24292F&text_color=24292F)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+
+<div align="center">
+
+✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
+
+![Khanh Vinh's github stats](https://github-readme-stats.vercel.app/api/?username=vinhnk2920&show_icons=true&title_color=F3EB3B&icon_color=F3EB3B&text_color=24292F&bg_color=ffffff) 
+</div>
+
