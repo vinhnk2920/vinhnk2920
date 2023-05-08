@@ -8,7 +8,7 @@
 <a href="https://instagram.com/trinwin.dev"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/instagram.png?raw=true"></a>&nbsp;&nbsp;
 
 <div align="center">
-<h3> :hatching_chick: Khanh Vinh Nguyen    |     💻 Software Engineer    |    🌏 Hanoi, Vietnam </h3> 
+<h3> :hatching_chick: Khanh Vinh Nguyen    |     💻 Learner   |    🌏 Hanoi, Vietnam </h3> 
 </div>
 
 ### About me 
@@ -16,7 +16,7 @@
 <!-- - 🎖 Completed software internships at [Giaohangtietkiem](https://giaohangtietkiem.vn/) -->
 - :mortar_board: Master student @ Information systems @ VNU University of Engineering and Technology
 - :mortar_board: BTech @ Information technology @ National Economics University Vietnam
-- 🌱 Learning `NLP`. 
+- 🌱 Learning `NLP`, `ML`. 
 - :computer: Worked as `Software Engineer` at [Giaohangtietkiem](https://giaohangtietkiem.vn/),
 - ⚡ Fun fact: I'm a `dancer and content creator`.
 - 💭 Let's get to know each other 
