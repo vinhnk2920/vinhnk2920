@@ -13,11 +13,11 @@
 
 ### About me 
 
-- 🎖 Completed software internships at [Giaohangtietkiem](https://giaohangtietkiem.vn/)
-- :mortar_board: Information technology @ National Economics University Vietnam
-- 🌱 Learning `Fullstack Web Development`. 
-- :computer: Working as `Software Engineer`
-- 🤔 Need some help with `technical interview and algorithm`.
+<!-- - 🎖 Completed software internships at [Giaohangtietkiem](https://giaohangtietkiem.vn/) -->
+- :mortar_board: Master student @ Information systems @ VNU University of Engineering and Technology
+- :mortar_board: BTech @ Information technology @ National Economics University Vietnam
+- 🌱 Learning `NLP`. 
+- :computer: Worked as `Software Engineer` at [Giaohangtietkiem](https://giaohangtietkiem.vn/),
 - ⚡ Fun fact: I'm a `dancer and content creator`.
 - 💭 Let's get to know each other 
 
