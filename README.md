@@ -25,10 +25,3 @@
 ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
 </div>
 
-<div align="center">
-
-✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
-
-![Khanh Vinh's github stats](https://github-readme-stats.vercel.app/api/?username=vinhnk2920&show_icons=true&theme=radical) 
-</div>
-
