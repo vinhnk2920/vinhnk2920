@@ -15,8 +15,8 @@
 <!-- - 🎖 Completed software internships at [Giaohangtietkiem](https://giaohangtietkiem.vn/) -->
 - :mortar_board: Master student @ Information systems @ VNU University of Engineering and Technology
 - :mortar_board: BTech @ Information technology @ National Economics University Vietnam
-- 🌱 Learning `NLP`, `ML`. 
-- :computer: Worked as `Software Engineer` at [Giaohangtietkiem](https://giaohangtietkiem.vn/),
+- 🌱 Currently learning `NLP`, `ML`. 
+- :computer: Formered `Software Engineer` at [Giaohangtietkiem](https://giaohangtietkiem.vn/),
 - ⚡ Fun fact: I'm a `dancer and content creator`.
 - 💭 Let's get to know each other 
 
