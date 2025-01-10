@@ -7,7 +7,7 @@
 <a href="https://twitter.com/vinhnk2920"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/twitter.png?raw=true"></a>&nbsp;&nbsp;
 
 <div align="center">
-<h3> :hatching_chick: Khanh Vinh Nguyen    |     💻 Learner   |    🌏 Hanoi, Vietnam </h3> 
+<h3> :hatching_chick: Khanh Vinh Nguyen    |     💻 Master's student at Japan Advanced Institute of Science and Technology  |    🌏 Ishikawa, Japan </h3> 
 </div>
 
 ### About me 
